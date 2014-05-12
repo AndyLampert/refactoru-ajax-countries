@@ -12,13 +12,13 @@
 },
 {
 	"name": "Algeria", 
-	"frenchName": "Algﾃｩrie", 
+	"frenchName": "Algérie", 
 	"localName": "Al Jaza'ir", 
 	"region": "Northern Africa"
 },
 {
 	"name": "American Samoa", 
-	"frenchName": "Samoa Amﾃｩricaines", 
+	"frenchName": "Samoa Américaines", 
 	"localName": "American Samoa", 
 	"region": "Polynesia, Oceania"
 },
@@ -60,7 +60,7 @@
 },
 {
 	"name": "Armenia", 
-	"frenchName": "Armﾃｩnie", 
+	"frenchName": "Arménie", 
 	"localName": "Hayastan", 
 	"region": "Western Asia"
 },
@@ -79,12 +79,12 @@
 {
 	"name": "Austria", 
 	"frenchName": "Autriche", 
-	"localName": "ﾃ穆terreich", 
+	"localName": "Österreich", 
 	"region": "Western Europe"
 },
 {
 	"name": "Azerbaijan", 
-	"frenchName": "Azerbaﾃｯdjan", 
+	"frenchName": "Azerbaïdjan", 
 	"localName": "Azarbaycan", 
 	"region": "Caucasus, Western Asia"
 },
@@ -96,7 +96,7 @@
 },
 {
 	"name": "Bahrain", 
-	"frenchName": "Bahreﾃｯn", 
+	"frenchName": "Bahreïn", 
 	"localName": "Al Bahrayn", 
 	"region": "Arabian Peninsula, Middle East"
 },
@@ -114,7 +114,7 @@
 },
 {
 	"name": "Belarus", 
-	"frenchName": "Bﾃｩlarus", 
+	"frenchName": "Bélarus", 
 	"localName": "Byelarus", 
 	"region": "Eastern Europe"
 },
@@ -132,7 +132,7 @@
 },
 {
 	"name": "Benin", 
-	"frenchName": "Bﾃｩnin", 
+	"frenchName": "Bénin", 
 	"localName": "Benin", 
 	"region": "West Africa"
 },
@@ -156,7 +156,7 @@
 },
 {
 	"name": "Bosnia and Herzegovina", 
-	"frenchName": "Bosnie-Herzﾃｩgovine", 
+	"frenchName": "Bosnie-Herzégovine", 
 	"localName": "Bosna i Hercegovina", 
 	"region": "Southern Europe"
 },
@@ -168,13 +168,13 @@
 },
 {
 	"name": "Brazil", 
-	"frenchName": "Brﾃｩsil", 
+	"frenchName": "Brésil", 
 	"localName": "Brasil", 
 	"region": "Central Eastern South America"
 },
 {
 	"name": "Brunei Darussalam", 
-	"frenchName": "Brunﾃｩi Darussalam", 
+	"frenchName": "Brunéi Darussalam", 
 	"localName": "Negara Brunei Darussalam", 
 	"region": "Southeast Asia"
 },
@@ -222,14 +222,14 @@
 },
 {
 	"name": "Cayman Islands", 
-	"frenchName": "Caﾃｯmanes", 
-	"localName": "ﾃ四es", 
+	"frenchName": "Caïmanes", 
+	"localName": "Îles", 
 	"region": "Cayman Islands,  Greater Antilles, Caribbean"
 },
 {
 	"name": "Central African Republic", 
 	"frenchName": "Centrafricaine", 
-	"localName": "Rﾃｩpublique", 
+	"localName": "République", 
 	"region": "Republique Centrafricaine, Central Africa"
 },
 {
@@ -252,13 +252,13 @@
 },
 {
 	"name": "Christmas Island",  
-	"frenchName": "ﾃ四e Christmas", 
+	"frenchName": "Île Christmas", 
 	"localName": "Christmas Island", 
 	"region": "Southeast Asia"
 },
 {
 	"name": "Cocos (Keeling) Islands", 
-	"frenchName": "ﾃ四es Cocos (Keeling)", 
+	"frenchName": "Îles Cocos (Keeling)", 
 	"localName": "Cocos (Keeling) Islands", 
 	"region": "South-East Asia, Australia"
 },
@@ -277,18 +277,18 @@
 {
 	"name": "Democratic Republic of the Congo (Kinshasa)", 
 	"frenchName": "Congo", 
-	"localName": "La Rﾃｩpublique Dﾃｩmocratique du", 
-	"region": "Rﾃｩpublique Dﾃｩmocratique du Congo, Central Africa"
+	"localName": "La République Démocratique du", 
+	"region": "République Démocratique du Congo, Central Africa"
 },
 {
 	"name": "Congo", 
 	"frenchName": "Republic of (Brazzaville)", 
-	"localName": "Rﾃｩpublique du Congo", 
-	"region": "Rﾃｩpublique du Congo, Central Africa"
+	"localName": "République du Congo", 
+	"region": "République du Congo, Central Africa"
 },
 {
 	"name": "Cook Islands", 
-	"frenchName": "ﾃ四es Cook", 
+	"frenchName": "Îles Cook", 
 	"localName": "Cook Islands", 
 	"region": "Polynesia, Oceania"
 },
@@ -300,7 +300,7 @@
 },
 {
 	"name": "Ivory Coast", 
-	"frenchName": "Cﾃｴte D'ivoire", 
+	"frenchName": "Côte D'ivoire", 
 	"localName": "Cote d'Ivoire", 
 	"region": "West Africa"
 },
@@ -324,7 +324,7 @@
 },
 {
 	"name": "Czech Republic", 
-	"frenchName": "Rﾃｩpublique Tchﾃｨque", 
+	"frenchName": "République Tchèque", 
 	"localName": "Ceska Republika", 
 	"region": "Eastern Europe"
 },
@@ -349,7 +349,7 @@
 {
 	"name": "Dominican Republic", 
 	"frenchName": "Dominicaine", 
-	"localName": "Rﾃｩpublique", 
+	"localName": "République", 
 	"region": "Dominicana, Republica, Greater Antilles, Caribbean"
 },
 {
@@ -360,13 +360,13 @@
 },
 {
 	"name": "Ecuador", 
-	"frenchName": "ﾃ衛uateur", 
+	"frenchName": "Équateur", 
 	"localName": "Ecuador", 
 	"region": "North West South America"
 },
 {
 	"name": "Egypt", 
-	"frenchName": "ﾃ曳ypte", 
+	"frenchName": "Égypte", 
 	"localName": "Misr", 
 	"region": "Africa, Middle East"
 },
@@ -378,13 +378,13 @@
 },
 {
 	"name": "Equatorial Guinea", 
-	"frenchName": "Guinﾃｩe ﾃ衛uatoriale", 
+	"frenchName": "Guinée Équatoriale", 
 	"localName": "Guinea Ecuatorial", 
 	"region": "Central Africa"
 },
 {
 	"name": "Eritrea", 
-	"frenchName": "ﾃ詠ythrﾃｩe", 
+	"frenchName": "Érythrée", 
 	"localName": "Hagere Ertra", 
 	"region": "Eastern Africa"
 },
@@ -396,19 +396,19 @@
 },
 {
 	"name": "Ethiopia", 
-	"frenchName": "ﾃ液hiopie", 
+	"frenchName": "Éthiopie", 
 	"localName": "Ityop'iya", 
 	"region": "Eastern Africa"
 },
 {
 	"name": "Falkland Islands", 
 	"frenchName": "Falkland", 
-	"localName": "ﾃ四es (Malvinas)", 
+	"localName": "Îles (Malvinas)", 
 	"region": "Islas Malvinas, Southern South America"
 },
 {
 	"name": "Faroe Islands", 
-	"frenchName": "ﾃ四es Fﾃｩroﾃｩ", 
+	"frenchName": "Îles Féroé", 
 	"localName": "Foroyar", 
 	"region": "Northern Europe"
 },
@@ -432,20 +432,20 @@
 },
 {
 	"name": "frenchName Guiana", 
-	"frenchName": "Guyane Franﾃｧaise", 
+	"frenchName": "Guyane Française", 
 	"localName": "Guyane", 
 	"region": "Northern South America"
 },
 {
 	"name": "frenchName Polynesia", 
-	"frenchName": "Polynﾃｩsie Franﾃｧaise", 
-	"localName": "Polynﾃｩsie Franﾃｧaise", 
+	"frenchName": "Polynésie Française", 
+	"localName": "Polynésie Française", 
 	"region": "Polynesia, Oceania"
 },
 {
 	"name": "frenchName Southern Territories", 
-	"frenchName": "Terres Australes Franﾃｧaises", 
-	"localName": "Terres Australes et Antarctiques Franﾃｧaises", 
+	"frenchName": "Terres Australes Françaises", 
+	"localName": "Terres Australes et Antarctiques Françaises", 
 	"region": "Southern South America, Antarctic"
 },
 {
@@ -462,7 +462,7 @@
 },
 {
 	"name": "Georgia", 
-	"frenchName": "Gﾃｩorgie", 
+	"frenchName": "Géorgie", 
 	"localName": "Sak'art'velo", 
 	"region": "Western Asia"
 },
@@ -492,7 +492,7 @@
 },
 {
 	"name": "Greece", 
-	"frenchName": "Grﾃｨce", 
+	"frenchName": "Grèce", 
 	"localName": "Ellas or Ellada", 
 	"region": "Southern Europe"
 },
@@ -528,13 +528,13 @@
 },
 {
 	"name": "Guinea", 
-	"frenchName": "Guinﾃｩee", 
+	"frenchName": "Guinéee", 
 	"localName": "Guinee", 
 	"region": "West Africa"
 },
 {
 	"name": "Guinea-Bissau", 
-	"frenchName": "Guinﾃｩe-Bissau", 
+	"frenchName": "Guinée-Bissau", 
 	"localName": "Guine-Bissau", 
 	"region": "West Africa"
 },
@@ -546,14 +546,14 @@
 },
 {
 	"name": "Haiti", 
-	"frenchName": "Haﾃｯti", 
+	"frenchName": "Haïti", 
 	"localName": "Haiti", 
 	"region": "Greater Antilles, Caribbean"
 },
 {
 	"name": "Holy See", 
-	"frenchName": "Saint-Siﾃｨge (ﾃ液at de la Citﾃｩ du Vatican)", 
-	"localName": "Status Civitatis Vaticanﾃｦ", 
+	"frenchName": "Saint-Siège (État de la Cité du Vatican)", 
+	"localName": "Status Civitatis Vaticanæ", 
 	"region": "Southern Europe within Italy"
 },
 {
@@ -588,13 +588,13 @@
 },
 {
 	"name": "Indonesia", 
-	"frenchName": "Indonﾃｩsie", 
+	"frenchName": "Indonésie", 
 	"localName": "Indonesia", 
 	"region": "Maritime South-East Asia"
 },
 {
 	"name": "Iran (Islamic Republic of)", 
-	"frenchName": "Rﾃｩpublique Islamique d' Iran", 
+	"frenchName": "République Islamique d' Iran", 
 	"localName": "Iran", 
 	"region": "South-Central Asia"
 },
@@ -607,12 +607,12 @@
 {
 	"name": "Ireland", 
 	"frenchName": "Irlande", 
-	"localName": "ﾃ永re", 
+	"localName": "Éire", 
 	"region": "Northern Europe"
 },
 {
 	"name": "Israel", 
-	"frenchName": "Israﾃｫl", 
+	"frenchName": "Israël", 
 	"localName": "Yisra'el", 
 	"region": "Middle East, Western Asia"
 },
@@ -624,7 +624,7 @@
 },
 {
 	"name": "Jamaica", 
-	"frenchName": "Jamaﾃｯque", 
+	"frenchName": "Jamaïque", 
 	"localName": "Jamaica", 
 	"region": "Greater Antilles, Caribbean"
 },
@@ -661,24 +661,24 @@
 {
 	"name": "Korea", 
 	"frenchName": "Democratic People's Rep. (North Korea)", 
-	"localName": "Corﾃｩe", 
-	"region": "Rﾃｩpublique Populaire Dﾃｩmocratique de, Choson, Eastern Asia"
+	"localName": "Corée", 
+	"region": "République Populaire Démocratique de, Choson, Eastern Asia"
 },
 {
 	"name": "Korea", 
 	"frenchName": "Republic of (South Korea)", 
-	"localName": "Corﾃｩe", 
-	"region": "Rﾃｩpublique de, Han-guk, Eastern Asia"
+	"localName": "Corée", 
+	"region": "République de, Han-guk, Eastern Asia"
 },
 {
 	"name": "Kosovo", 
 	"frenchName": "Kosovo", 
-	"localName": "Kosovo, ﾐ墟ｾﾑ�ｾﾐｲﾐｾ", 
+	"localName": "Kosovo, Косово", 
 	"region": "Southern Europe"
 },
 {
 	"name": "Kuwait", 
-	"frenchName": "Koweﾃｯt", 
+	"frenchName": "Koweït", 
 	"localName": "Al Kuwayt", 
 	"region": "Middle East, Western Asia"
 },
@@ -692,7 +692,7 @@
 	"name": "Lao", 
 	"frenchName": "People's Democratic Republic", 
 	"localName": "Lao", 
-	"region": "Rﾃｩpublique Dﾃｩmocratique Populaire, Lao, South-East Asia"
+	"region": "République Démocratique Populaire, Lao, South-East Asia"
 },
 {
 	"name": "Latvia", 
@@ -714,7 +714,7 @@
 },
 {
 	"name": "Liberia", 
-	"frenchName": "Libﾃｩria", 
+	"frenchName": "Libéria", 
 	"localName": "Liberia", 
 	"region": "West Africa"
 },
@@ -751,8 +751,8 @@
 {
 	"name": "Macedonia", 
 	"frenchName": "Rep. of", 
-	"localName": "Macﾃｩdoine", 
-	"region": "l'ex-Rﾃｩpublique Yougoslave de, Makedonija, Southern Europe"
+	"localName": "Macédoine", 
+	"region": "l'ex-République Yougoslave de, Makedonija, Southern Europe"
 },
 {
 	"name": "Madagascar", 
@@ -792,7 +792,7 @@
 },
 {
 	"name": "Marshall Islands", 
-	"frenchName": "ﾃ四es Marshall", 
+	"frenchName": "Îles Marshall", 
 	"localName": "Marshall Islands", 
 	"region": "Micronesia, Oceania"
 },
@@ -810,7 +810,7 @@
 },
 {
 	"name": "Mauritius", 
-	"frenchName": "ﾃ四e Maurice", 
+	"frenchName": "Île Maurice", 
 	"localName": "Mauritius", 
 	"region": "Eastern Africa"
 },
@@ -829,14 +829,14 @@
 {
 	"name": "Micronesia", 
 	"frenchName": "Federal States of", 
-	"localName": "ﾃ液ats Fﾃｩdﾃｩrﾃｩs de Micronﾃｩsie", 
+	"localName": "États Fédérés de Micronésie", 
 	"region": "Micronesia, Micronesia, Oceania"
 },
 {
 	"name": "Moldova", 
 	"frenchName": "Republic of", 
 	"localName": "Moldova", 
-	"region": "Rﾃｩpublique de, Moldova, Eastern Europe"
+	"region": "République de, Moldova, Eastern Europe"
 },
 {
 	"name": "Monaco", 
@@ -852,7 +852,7 @@
 },
 {
 	"name": "Montenegro", 
-	"frenchName": "Montﾃｩnﾃｩgro", 
+	"frenchName": "Monténégro", 
 	"localName": "Crna Gora", 
 	"region": "Southern Europe"
 },
@@ -894,7 +894,7 @@
 },
 {
 	"name": "Nepal", 
-	"frenchName": "Nﾃｩpal", 
+	"frenchName": "Népal", 
 	"localName": "Nepal", 
 	"region": "South-Central Asia"
 },
@@ -906,19 +906,19 @@
 },
 {
 	"name": "Netherlands Antilles", 
-	"frenchName": "Antilles Nﾃｩerlandaises", 
+	"frenchName": "Antilles Néerlandaises", 
 	"localName": "Nederlandse Antillen", 
 	"region": "Caribbean"
 },
 {
 	"name": "New Caledonia", 
-	"frenchName": "Nouvelle-Calﾃｩdonie", 
-	"localName": "Nouvelle-Calﾃｩdonie", 
+	"frenchName": "Nouvelle-Calédonie", 
+	"localName": "Nouvelle-Calédonie", 
 	"region": "Melanesia, Oceania"
 },
 {
 	"name": "New Zealand", 
-	"frenchName": "Nouvelle-Zﾃｩlande", 
+	"frenchName": "Nouvelle-Zélande", 
 	"localName": "Aotearoa", 
 	"region": "Oceania; Australia"
 },
@@ -936,25 +936,25 @@
 },
 {
 	"name": "Nigeria", 
-	"frenchName": "Nigﾃｩria", 
+	"frenchName": "Nigéria", 
 	"localName": "Nigeria", 
 	"region": "West Africa"
 },
 {
 	"name": "Niue", 
-	"frenchName": "Niouﾃｩ", 
+	"frenchName": "Nioué", 
 	"localName": "Niue", 
 	"region": "Polynesia, Oceania"
 },
 {
 	"name": "Northern Mariana Islands", 
-	"frenchName": "ﾃ四es Mariannes du Nord", 
+	"frenchName": "Îles Mariannes du Nord", 
 	"localName": "Northern Mariana Islands", 
 	"region": "Micronesia, Oceania"
 },
 {
 	"name": "Norway", 
-	"frenchName": "Norvﾃｨge", 
+	"frenchName": "Norvège", 
 	"localName": "Norge", 
 	"region": "Northern Europe"
 },
@@ -978,7 +978,7 @@
 },
 {
 	"name": "Palestinian territories", 
-	"frenchName": "Autoritﾃｩ Nationale Palestinienne", 
+	"frenchName": "Autorité Nationale Palestinienne", 
 	"localName": "Filastin", 
 	"region": "Middle East, Western Asia"
 },
@@ -990,7 +990,7 @@
 },
 {
 	"name": "Papua New Guinea", 
-	"frenchName": "Papouasie-Nouvelle-Guinﾃｩe", 
+	"frenchName": "Papouasie-Nouvelle-Guinée", 
 	"localName": "Papua Niu Gini", 
 	"region": "Maritime Southeast Asia, Melanesia, Oceania"
 },
@@ -1002,7 +1002,7 @@
 },
 {
 	"name": "Peru", 
-	"frenchName": "Pﾃｩrou", 
+	"frenchName": "Pérou", 
 	"localName": "Peru", 
 	"region": "Western South America"
 },
@@ -1044,8 +1044,8 @@
 },
 {
 	"name": "Reunion Island", 
-	"frenchName": "Ile de la Rﾃｩunion", 
-	"localName": "Ile de la Rﾃｩunion", 
+	"frenchName": "Ile de la Réunion", 
+	"localName": "Ile de la Réunion", 
 	"region": "Eastern Africa"
 },
 {
@@ -1057,7 +1057,7 @@
 {
 	"name": "Russian Federation", 
 	"frenchName": "Russie", 
-	"localName": "Fﾃｩdﾃｩration de", 
+	"localName": "Fédération de", 
 	"region": "Rossiya, Eastern Europe - Northern Asia"
 },
 {
@@ -1098,7 +1098,7 @@
 },
 {
 	"name": "Sao Tome and Principe", 
-	"frenchName": "Sao Tomﾃｩ-et-Principe", 
+	"frenchName": "Sao Tomé-et-Principe", 
 	"localName": "Sao Tome e Principe", 
 	"region": "Central Africa"
 },
@@ -1110,7 +1110,7 @@
 },
 {
 	"name": "Senegal", 
-	"frenchName": "Sﾃｩnﾃｩgal", 
+	"frenchName": "Sénégal", 
 	"localName": "Senegal", 
 	"region": "West Africa"
 },
@@ -1146,14 +1146,14 @@
 },
 {
 	"name": "Slovenia", 
-	"frenchName": "Slovﾃｩnie", 
+	"frenchName": "Slovénie", 
 	"localName": "Slovenija", 
 	"region": "Southern Europe"
 },
 {
 	"name": "Solomon Islands", 
 	"frenchName": "Salomon", 
-	"localName": "ﾃ四es", 
+	"localName": "Îles", 
 	"region": "Solomon Islands, Melanesia, Oceania"
 },
 {
@@ -1177,7 +1177,7 @@
 {
 	"name": "Spain", 
 	"frenchName": "Espagne", 
-	"localName": "Espaﾃｱa", 
+	"localName": "España", 
 	"region": "Southern Europe"
 },
 {
@@ -1206,7 +1206,7 @@
 },
 {
 	"name": "Sweden", 
-	"frenchName": "Suﾃｨde", 
+	"frenchName": "Suède", 
 	"localName": "Sverige", 
 	"region": "Northern Europe"
 },
@@ -1220,11 +1220,11 @@
 	"name": "Syria", 
 	"frenchName": "Syrian Arab Republic", 
 	"localName": "Syrienne", 
-	"region": "Rﾃｩpublique Arabe, Suriyah, Middle East, Western Asia"
+	"region": "République Arabe, Suriyah, Middle East, Western Asia"
 },
 {
 	"name": "Taiwan (Republic of China)", 
-	"frenchName": "Taﾃｯwan", 
+	"frenchName": "Taïwan", 
 	"localName": "Province de Chine", 
 	"region": "T'ai-wan, Eastern Asia"
 },
@@ -1237,12 +1237,12 @@
 {
 	"name": "Tanzania; officially the United Republic of Tanzania", 
 	"frenchName": "Tanzanie", 
-	"localName": "Rﾃｩpublique-Unie de", 
+	"localName": "République-Unie de", 
 	"region": "Jamhuri ya Muungano wa Tanzania, Eastern Africa"
 },
 {
 	"name": "Thailand", 
-	"frenchName": "Thaﾃｯlande", 
+	"frenchName": "Thaïlande", 
 	"localName": "Prathet Thai", 
 	"region": "South-East Asia"
 },
@@ -1278,7 +1278,7 @@
 },
 {
 	"name": "Trinidad and Tobago", 
-	"frenchName": "Trinitﾃｩ-et-Tobago", 
+	"frenchName": "Trinité-et-Tobago", 
 	"localName": "Trinidad", 
 	"region": "Tobago, Northern South America, Caribbean"
 },
@@ -1296,14 +1296,14 @@
 },
 {
 	"name": "Turkmenistan", 
-	"frenchName": "Turkmﾃｩnistan", 
+	"frenchName": "Turkménistan", 
 	"localName": "Turkmenistan", 
 	"region": "Central Asia"
 },
 {
 	"name": "Turks and Caicos Islands", 
-	"frenchName": "Turks et Caﾃｯques", 
-	"localName": "ﾃ四es", 
+	"frenchName": "Turks et Caïques", 
+	"localName": "Îles", 
 	"region": "Turks and Caicos Islands, Caribbean, parts of the Bahamas island chain."
 },
 {
@@ -1326,7 +1326,7 @@
 },
 {
 	"name": "United Arab Emirates", 
-	"frenchName": "ﾃ盈irats Arabes Unis", 
+	"frenchName": "Émirats Arabes Unis", 
 	"localName": "Al Imarat al Arabiyah al Muttahidah", 
 	"region": "Arabian Peninsula, Middle East"
 },
@@ -1338,7 +1338,7 @@
 },
 {
 	"name": "United States", 
-	"frenchName": "ﾃ液ats-Unis", 
+	"frenchName": "États-Unis", 
 	"localName": "United States", 
 	"region": "North America"
 },
@@ -1350,7 +1350,7 @@
 },
 {
 	"name": "Uzbekistan", 
-	"frenchName": "Ouzbﾃｩkistan", 
+	"frenchName": "Ouzbékistan", 
 	"localName": "Uzbekiston Respublikasi", 
 	"region": "Central Asia"
 },
@@ -1362,8 +1362,8 @@
 },
 {
 	"name": "Vatican City State (Holy See)", 
-	"frenchName": "Saint-Siﾃｨge (ﾃ液at de la Citﾃｩ du Vatican)", 
-	"localName": "Status Civitatis Vaticanﾃｦ", 
+	"frenchName": "Saint-Siège (État de la Cité du Vatican)", 
+	"localName": "Status Civitatis Vaticanæ", 
 	"region": "Southern Europe within Italy"
 },
 {
@@ -1374,19 +1374,19 @@
 },
 {
 	"name": "Vietnam", 
-	"frenchName": "Viﾃｪt Nam", 
+	"frenchName": "Viêt Nam", 
 	"localName": "Viet Nam", 
 	"region": "South-East Asia"
 },
 {
 	"name": "Virgin Islands (British)", 
-	"frenchName": "ﾃ四es Vierges Britanniques", 
+	"frenchName": "Îles Vierges Britanniques", 
 	"localName": "", 
 	"region": "Lesser Antilles, Caribbean"
 },
 {
 	"name": "Virgin Islands (U.S.)", 
-	"frenchName": "ﾃ四es Vierges des ﾃ液ats-Unis", 
+	"frenchName": "Îles Vierges des États-Unis", 
 	"localName": "Virgin Islands", 
 	"region": "Lesser Antilles, Caribbean"
 },
@@ -1399,12 +1399,12 @@
 {
 	"name": "Western Sahara", 
 	"frenchName": "Sahara Occidental", 
-	"localName": "A盪｣-盪｢a盧･rﾄ≫ al-Gharbﾄｫyah", 
+	"localName": "Aṣ-Ṣaḥrā’ al-Gharbīyah", 
 	"region": "Northern Africa"
 },
 {
 	"name": "Yemen", 
-	"frenchName": "Yﾃｩmen", 
+	"frenchName": "Yémen", 
 	"localName": "Al Yaman", 
 	"region": "Arabian Peninsula, Middle East"
 },
